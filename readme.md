@@ -2,22 +2,22 @@
 
 ## Liste de cours
 
-### [Cours 1](http://prof-tim.cstj.qc.ca/cours/jeu2/notes/)
+### [Cours 1 (Yanick)](http://prof-tim.cstj.qc.ca/cours/jeu2/notes/)
 - Nomenclature
 - Types (float, int, ...)
 - Opérateurs (+, -, >, !=, ...)
 - Nombres aléatoires
 - Autocomplétion dans VSCode
 
-### [Cours 2](http://prof-tim.cstj.qc.ca/cours/jeu2/notes/)
+### [Cours 2 (Yanick)](http://prof-tim.cstj.qc.ca/cours/jeu2/notes/)
 - Fonctions
 - Tableaux
 - Changer un sprite
 
-### [Cours 3](http://prof-tim.cstj.qc.ca/cours/jeu2/notes/)
+### [Cours 3 (Yanick)](http://prof-tim.cstj.qc.ca/cours/jeu2/notes/)
 - Jouer un son
 
-### [Cours 4](http://prof-tim.cstj.qc.ca/cours/jeu2/notes/)
+### [Cours 4 (Yanick)](http://prof-tim.cstj.qc.ca/cours/jeu2/notes/)
 - Boucle for
 - Listes
 
