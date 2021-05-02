@@ -30,3 +30,8 @@
 - Invoke avec durée aléatoire
 - InvokeRepeating
 - Annuler un Invoke
+
+### [Cours 7](07.md)
+- Introduction à Mathf
+- Méthodes de Mathf
+- Constantes de Mathf
