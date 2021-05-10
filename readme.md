@@ -35,3 +35,13 @@
 - Introduction à Mathf
 - Méthodes de Mathf
 - Constantes de Mathf
+
+### [Cours 8](08.md)
+- Chaînes de texte
+- Concaténation et interpolation
+- Le rôle de `\`
+- Le rôle de `\n`
+- Mise en forme RichText
+- Propriété d'un objet string
+- Principales méthodes d'un objet string
+- Les objets char
